@@ -24,7 +24,7 @@
   "dependencies": {
     "esm": "^3.2.25",
     "ethers": "^4.0.33",
-    "ws": "^7.0.1"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
